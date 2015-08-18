@@ -1,7 +1,7 @@
 Abas Verticais
 ------
 ##Demo
-[Pen](http://codepen.io/enieber/pen/YXbvZN)
+[Code Pen](http://codepen.io/enieber/pen/YXbvZN)
 
 ##Based
 [Luiz Otávio Miranda Figueiredo](http://codepen.io/luizomf/pen/prfkB/).

@@ -1,9 +1,11 @@
 Abas Verticais
 ------
+##Demo
+[Pen](http://codepen.io/enieber/pen/YXbvZN)
 
+##Based
+[Luiz Otávio Miranda Figueiredo](http://codepen.io/luizomf/pen/prfkB/).
 
-Forked from [Luiz Otávio Miranda Figueiredo](http://codepen.io/luizomf/)'s Pen [prfkB](http://codepen.io/luizomf/pen/prfkB/).
+##License
 
-A [Pen](http://codepen.io/enieber/pen/YXbvZN) by [Enieber Cunha](http://codepen.io/enieber) on [CodePen](http://codepen.io/).
-
-[License](http://codepen.io/enieber/pen/YXbvZN/license).
+[Code Pen](http://codepen.io/enieber/pen/YXbvZN/license).

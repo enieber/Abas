@@ -20,17 +20,14 @@ p{
   height: 360px;
   max-width: 98%;
   margin: 0 auto;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
-    display: flex;
-    
-    -webkit-flex-flow: column;
-    -moz-flex-flow: column;
-    -ms-flex-flow: column;
-    -o-flex-flow: column; 
-    flex-flow: column;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  -o-flex-flow: column; 
+  flex-flow: column;
 }
 .tabs-container p{
   margin-left: 10%;
@@ -78,16 +75,14 @@ input.tabs:checked + label + div {
 }
 .conteudo{
   margin-left:20%;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    display: -o-flex;
-    display: flex;    
-    -webkit-flex-flow: column;
-    -moz-flex-flow: column;
-    -ms-flex-flow: column;
-    -o-flex-flow: column; 
-    flex-flow: column;
-    align-items:center;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;    
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  -o-flex-flow: column; 
+  flex-flow: column;
+  align-items:center;
 }
 
